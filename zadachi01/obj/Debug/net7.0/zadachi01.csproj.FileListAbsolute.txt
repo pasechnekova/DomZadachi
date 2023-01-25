@@ -1,0 +1,15 @@
+C:\Users\antif_000\Desktop\ZADACHI\zadachi01\bin\Debug\net7.0\zadachi01.exe
+C:\Users\antif_000\Desktop\ZADACHI\zadachi01\bin\Debug\net7.0\zadachi01.deps.json
+C:\Users\antif_000\Desktop\ZADACHI\zadachi01\bin\Debug\net7.0\zadachi01.runtimeconfig.json
+C:\Users\antif_000\Desktop\ZADACHI\zadachi01\bin\Debug\net7.0\zadachi01.dll
+C:\Users\antif_000\Desktop\ZADACHI\zadachi01\bin\Debug\net7.0\zadachi01.pdb
+C:\Users\antif_000\Desktop\ZADACHI\zadachi01\obj\Debug\net7.0\zadachi01.csproj.AssemblyReference.cache
+C:\Users\antif_000\Desktop\ZADACHI\zadachi01\obj\Debug\net7.0\zadachi01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antif_000\Desktop\ZADACHI\zadachi01\obj\Debug\net7.0\zadachi01.AssemblyInfoInputs.cache
+C:\Users\antif_000\Desktop\ZADACHI\zadachi01\obj\Debug\net7.0\zadachi01.AssemblyInfo.cs
+C:\Users\antif_000\Desktop\ZADACHI\zadachi01\obj\Debug\net7.0\zadachi01.csproj.CoreCompileInputs.cache
+C:\Users\antif_000\Desktop\ZADACHI\zadachi01\obj\Debug\net7.0\zadachi01.dll
+C:\Users\antif_000\Desktop\ZADACHI\zadachi01\obj\Debug\net7.0\refint\zadachi01.dll
+C:\Users\antif_000\Desktop\ZADACHI\zadachi01\obj\Debug\net7.0\zadachi01.pdb
+C:\Users\antif_000\Desktop\ZADACHI\zadachi01\obj\Debug\net7.0\zadachi01.genruntimeconfig.cache
+C:\Users\antif_000\Desktop\ZADACHI\zadachi01\obj\Debug\net7.0\ref\zadachi01.dll
